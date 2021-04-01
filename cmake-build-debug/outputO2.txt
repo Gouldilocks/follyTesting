@@ -1,0 +1,13 @@
+rudimentaryVectorTime,fbVectorTime,stdVectorTime
+adding 1 int
+0,0,0
+adding 100 ints
+1e-06,1e-06,0
+adding 1,000,000 ints
+0.010384,0.003286,0.00301
+adding 1 string
+4e-06,1e-06,0
+adding 100 strings
+1e-06,2e-06,1e-06
+adding long text file
+0.000889,0.001949,0.001843

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/Desktop/Data Structures TA Spring 2021/follyTesting/main.cpp
+iostream
+-
+folly/FBVector.h
+-
+vector
+-
+rudimentaryVector.h
+/home/christian/Desktop/Data Structures TA Spring 2021/follyTesting/rudimentaryVector.h
+chrono
+-
+list
+-
+fstream
+-
+
+/home/christian/Desktop/Data Structures TA Spring 2021/follyTesting/rudimentaryVector.h
+

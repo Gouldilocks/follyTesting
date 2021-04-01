@@ -1,0 +1,1 @@
+/bin/c++  -Ofast   CMakeFiles/follyTesting.dir/main.cpp.o  -o follyTesting 
